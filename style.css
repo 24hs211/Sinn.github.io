@@ -1,0 +1,21 @@
+h1 { color: green; }
+p { color: blue; }
+
+.sheep {
+color: orange;
+}
+
+
+#birth {
+color:red;
+}
+
+.gradient {
+background: linear-gradient(to bottom,#38a092,#fdbf3b);color: white;
+}
+
+
+.title {
+ border: double 4px red;font-size: 24px;
+
+}
